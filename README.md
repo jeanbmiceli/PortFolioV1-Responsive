@@ -14,7 +14,7 @@ CHANGES / CAMBIOS:
 
 🟣 VIDEO PORTFOLIO COMPLETE: https://www.linkedin.com/posts/jeanbmiceli_developer-html5-css3-activity-6874592347280211968-6XwT
 
-<a href="https://www.linkedin.com/in/jeanbmiceli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@jeanbmiceli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/update/urn:li:activity:6874592347280211968/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VIDEO" height="30" width="40" /></a>
   
 ─────────────────────────────────────────────────────────────────────────
 
