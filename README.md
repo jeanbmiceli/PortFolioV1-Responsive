@@ -13,7 +13,7 @@ CHANGES / CAMBIOS:
 🟣 Este proyecto contiene Responsive adaptado para celular. 
 
 🟣 VIDEO PORTFOLIO COMPLETE: https://www.linkedin.com/posts/jeanbmiceli_developer-html5-css3-activity-6874592347280211968-6XwT
-
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6874592347280211968/" target="blank">
 ─────────────────────────────────────────────────────────────────────────
 
 CONTACT 
