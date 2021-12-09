@@ -8,9 +8,9 @@ CHANGES / CAMBIOS:
 
 🟣 Todos los cambios que desean realizan como icons, images, cambien los nombres y lo reemplazan para evitar incovenientes o como gusten.
 
-🟣 Se hizo un proyecto igual fue un modelado lo cual lo descarte y empeze uno de 0.
+🟣 Se hizo un proyecto igual fue un modelado lo cual lo descarte y empece uno de 0.
 
-🟣 Este proyecto contiene Reponsive adaptado para celular. 
+🟣 Este proyecto contiene Responsive adaptado para celular. 
 
 ─────────────────────────────────────────────────────────────────────────
 
