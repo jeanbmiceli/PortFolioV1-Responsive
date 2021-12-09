@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Portfolio | Official  Website </title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+	<header>
+		<a href="#" class="logo"> Portfolio </a>
+		<div class="toggle" onclick="toggleMenu();"></div>
+		<ul class="menu">
+			<li><a href="#home" onclick="toggleMenu();"> Home </a></li>
+			<li><a href="#services" onclick="toggleMenu();"> Services </a></li>
+			<li><a href="#work" onclick="toggleMenu();" > Works </a></li>
+			<li><a href="#testimonial" onclick="toggleMenu();"> Opinions </a></li>
+			<li><a href="#contact" onclick="toggleMenu();"> Contact </a></li>
+		</ul>
+	</header>
+	<section class="banner" id="home">
+		<div class="textBx">
+			<h1> Hello, I'm <br><span> Jean Miceli. </span></h1>
+			<h2> Developer Full Stack </h2>
+			<a href="#about" class="btn"> About Me </a>
+		</div>
+	</section>
+		<section class="about" id="about">
+		<div class="heading">
+			<h1> About Me </h1>
+		</div>
+		<div class="content">
+			<div class="contentBx w50">
+			<h2> I'm Developer FullStack </h2> 
+			<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			</p>
+			</div>
+			<div class="w50">
+				<img src="img/ibaimessi.jpg" class="img">
+			</div>
+		</div>
+	</section>
+	<section class="services" id="services">
+		<div class="heading white">
+			<h2> Services </h2>
+			<p> </p> <!--Puede agregar comentarios o eliminar etiqueta -->
+		</div>
+		<div class="content">
+			<div class="servicesBx">
+				<img src="img/css.png">
+				<h2> CSS </h2>
+				<p> Un lenguaje que determina el estilo de los documentos HTML. Abarca opciones relativas a fuentes, colores, márgenes, líneas, altura, anchura, imágenes de fondo, entre otros. </p>
+			</div>
+			<div class="servicesBx">
+				<img src="img/html.png">
+				<h2> HTML </h2>
+				<p> Un lenguaje que sirve principalmente para describir la estructura básica de una página. Organiza la manera en que se muestra el contenido e incluye enlaces que dirigen a los usuarios hacia otros sitios web o documentos. </p>
+			</div>
+			<div class="servicesBx">
+				<img src="img/js.png">
+				<h2> JAVASCRIPT </h2>
+				<p> Un lenguaje de secuencias de comandos que te permite crear contenido de actualización dinámica, controlar multimedia, animar imágenes y prácticamente todo lo demás. </p>
+			</div>
+			<div class="servicesBx">
+				<img src="img/java.png">
+				<h2> JAVA </h2>
+				<p> Es una tecnologia que se se usa para desarrollo de aplicaciones que convierten a la web en un elemento mas interesante.</p>
+			</div>
+			<div class="servicesBx">
+				<img src="img/springboot.png">
+				<h2> SPRING BOOT </h2>
+				<p> Framework que va por encima de Java y que se compone de herramientas y utilidades que ayudan al desarrollador a crear aplicaciones web en Java.</p>
+			</div>
+			<div class="servicesBx">
+				<img src="img/mysql.png">
+				<h2> MySQL </h2>
+				<p> Desarrollar una Base de Datos (BBDD) para almacenar y acceder a los datos.</p>
+			</div>
+		</div>
+	</section>
+	<section class="work" id="work">
+		<div class="heading">
+			<h2> Works </h2>
+			<p> </p> <!--Puede agregar comentarios o eliminar etiqueta -->
+		</div>
+		<div class="content">
+			<div class="workBx">
+				<img src="img/product1.jpg">
+			</div>
+			<div class="workBx">
+				<img src="img/product2.jpg">
+			</div>
+			<div class="workBx">
+				<img src="img/product3.jpg">
+			</div>
+			<div class="workBx">
+				<img src="img/product4.jpg">
+			</div>
+		</div>
+		<div class="heading">
+			<a href="#" class="btn"> View More </a>
+		</div>
+	</section>
+	<section class="testimonial" id="testimonial">
+		<div class="heading">
+			<h2> Opinions </h2>
+			<p> </p> <!--Puede agregar comentarios o eliminar etiqueta -->
+		</div>
+		<div class="content">
+			<div class="testimonialBx">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commod.</p>
+				<h3> Someone Famous <br><span>Creative Designer</span></h3>
+			</div>
+			<div class="testimonialBx">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commod.</p>
+				<h3> Someone Famous <br><span>Creative Designer</span></h3>
+			</div>
+		</div>
+	</section>
+<section class="contact" id="contact">
+	<div class="heading white">
+		<h2> Contact  </h2>
+		<p> </p> <!--Puede agregar comentarios o eliminar etiqueta -->
+	</div>
+		<div class="content">
+			<div class="contactInfo">
+				<h3> Contact Info </h3>
+				<div class="contactInfoBx">
+					<div class="box">
+						<div class="icon">
+							<i class="fa fa-map-marker"></i>
+						</div>
+							<div class="text">
+								<h3> Address </h3>
+								<p> Las Heras, Mendoza<br>Argentina<br>42323222</p>
+							</div>
+					</div>
+					<div class="box">
+						<div class="icon">
+							<i class="fa fa-phone"></i>
+						</div>
+							<div class="text">
+								<h3> Phone </h3>
+								<p> 261-232323</p>
+							</div>
+					</div>
+					<div class="box">
+						<div class="icon">
+							<i class="fa fa-envelope-o"></i>
+						</div>
+							<div class="text">
+								<h3> Email </h3>
+								<p> brozitograffitis@gmail.com</p>
+							</div>
+					</div>
+				</div>
+			</div>
+			<div class="formBx">
+				<form>
+					<h3> Message Me </h3>
+					<input type="text" name="" placeholder="Full Name">
+					<input type="email" name="" placeholder="Email">
+					<textarea placeholder="Your Message"></textarea>
+					<input type="submit" value="Send">
+				</form>
+			</div>
+		</div>
+</section>
+<div class="copyright">
+	<p> Copyright 2021 Broz. All Right Reserved </p>
+</div>
+<script type="text/javascript">
+		window.addEventListener('scroll',function(){
+			var header = document.querySelector('header');
+			header.classList.toggle('sticky',window.scrollY > 0);
+		});
+		function toggleMenu(){
+			var menuToggle = document.querySelector('.toggle');
+			var menu = document.querySelector('.menu');
+			menuToggle.classList.toggle('active');
+			menu.classList.toggle('active');
+		}
+</script>
+</body>
+</html>
