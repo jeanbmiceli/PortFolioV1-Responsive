@@ -12,7 +12,7 @@ CHANGES / CAMBIOS:
 
 🟣 Este proyecto contiene Responsive adaptado para celular. 
 
-🟣 VIDEO COMPLETE IN LINKEDIN  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6874592347280211968/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VIDEO" height="30" width="40" /></a>
+🟣 LINK ONLINE: https://jeanbmiceli.netlify.app/
 
   
 ─────────────────────────────────────────────────────────────────────────
